@@ -1,0 +1,5 @@
+shiny== 0.7.0
+pandas==2.0.0
+shinyswatch==0.2.4
+itables==2.0.0
+openpyxl==3.1.2
